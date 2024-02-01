@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -g src/main.c src/files.c -o main && ./main && rm main
